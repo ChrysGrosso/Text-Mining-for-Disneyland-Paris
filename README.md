@@ -1,10 +1,11 @@
 # Text-Mining-for-Disneyland-Paris
- Web Scrapping- NLP analysis - Streamlit app -On the behalf of Disneyland's Customer Experience Integration Team
+ Web Scrapping- NLP analysis - Streamlit app -On the behalf of Disneyland's Customer Experience Integration Team.
+ 
 Attached, the python files created fort the Streamlit app. 
 
-# Pages : pages of the app
+**Pages : pages of the app**
 
-# Functions : functions to be embbeded
+**Functions : functions to be embbeded**
 
 How does it work ?
 
