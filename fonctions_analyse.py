@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jan  4 15:01:56 2023
-
-@author: Sam
-"""
 
 
 import ast
