@@ -13,4 +13,4 @@ How does it work ?
   - do not forget to install the requested librairies such as streamlit, plotly.graphs_objs (interactive plots), pandas and numpy
   - import the pages folder
   - import the functions besides the Pages folder (you are still in the environment, but not in the Pages folder)
-  - run the app with "run streamlit Accueil.py"
+  - run the app with "streamlit run Accueil.py"
